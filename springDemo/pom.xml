@@ -22,6 +22,13 @@
       <version>1.7.21</version>
     </dependency>
 
+    <!--Excel-->
+    <dependency>
+      <groupId>net.sf.jxls</groupId>
+      <artifactId>jxls-core</artifactId>
+      <version>1.0.3</version>
+    </dependency>
+
     <!--j2ee相关包 servlet、jsp、jstl-->
     <dependency>
       <groupId>javax.servlet</groupId>
